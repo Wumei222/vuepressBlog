@@ -2,7 +2,7 @@ module.exports = {
   title: 'WM_Blog',  // 设置网站标题
   description : 'WM_Blog',
   
-  base : '/',
+  base : '/Wumei222.github.io/',
   head: [ // 注入到当前页面的 HTML <head> 中的标签
     ['link', { rel: 'icon', href: '/images/logo.png' }],
     ['link', { rel: 'manifest', href: '/images/pic.png' }],
